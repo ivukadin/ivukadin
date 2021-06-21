@@ -1,0 +1,5 @@
+- 👋 hi, I'm Ivan Vukadin 18 years old, coming from Croatia
+- 👀 intrested in creating unique websites, with the newest and best technologies
+- 🌱 currently learning react & node.js
+- 💞️ looking for people to collaborate with me, learn and work with me
+- 📫 e-mail: ivukadin10@gmail.com
